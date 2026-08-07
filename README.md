@@ -39,7 +39,7 @@
 ║ STATUS     : BUILDING                                        ║
 ║                                                              ║
 ║ PRIMARY    : Python • SQL • Power BI                         ║
-║ SECONDARY  : C# • .NET • VBA • Git                           ║
+║ SECONDARY  : .NET • VBA • Git                                ║
 ║                                                              ║
 ║ MISSION    : Transform data into meaningful decisions        ║
 ╚══════════════════════════════════════════════════════════════╝
