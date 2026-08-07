@@ -295,10 +295,9 @@ $ become_data_scientist --mode=continuous_learning
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Guisilva29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="96%"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Guisilva29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="96%"/>
 
 </div>
-
 ---
 
 # `09 // CONTRIBUTION.PROTOCOL`
