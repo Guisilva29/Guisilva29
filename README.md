@@ -265,9 +265,13 @@ $ become_data_scientist --mode=continuous_learning
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Guisilva29&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+<a href="https://github.com/Guisilva29">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guisilva29&theme=github_dark"/>
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guisilva29&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+<a href="https://github.com/Guisilva29">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guisilva29&theme=github_dark"/>
+</a>
 
 <br><br>
 
