@@ -19,16 +19,16 @@ jobs:
 
     steps:
       - name: Generate Trophy
-        uses: ryo-ma/github-profile-trophy@master
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Guisilva29
-          output: trophy.svg
+          output_path: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish Trophy
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          build_dir: .
+          build_dir: dist
           target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
