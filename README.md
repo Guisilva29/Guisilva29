@@ -87,9 +87,7 @@ Também possuo experiência acadêmica e prática com **.NET, VB.NET, VBA, Acces
 
 <br><br>
 
-### `DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github,vscode&theme=dark"/>
 
 <br><br>
 
