@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=GUILHERME OLIVEIRA%20SILVA&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=DATA%20%7C%20ANALYTICS%20%7C%20TECHNOLOGY&descAlignY=58&descSize=18&color=0:050505,45:07151A,100:00F7FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=GUILHERME%20OLIVEIRA%20SILVA&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=DATA%20%7C%20ANALYTICS%20%7C%20TECHNOLOGY&descAlignY=58&descSize=18&color=0:050505,45:07151A,100:00F7FF" width="100%"/>
 
 <br>
 
@@ -12,11 +12,11 @@
 <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
-<a href="COLOQUE_SEU_LINKEDIN_AQUI">
+<a href="https://www.linkedin.com/in/guilhermeoliveiraslv">
 <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:guilhermeoliveira2903@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
 </a>
 
@@ -32,14 +32,14 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                     GUILHERME OLIVEIRA SILVA                 ║
+║              GUILHERME OLIVEIRA SILVA                        ║
 ╠══════════════════════════════════════════════════════════════╣
 ║ ROLE       : ADS STUDENT                                     ║
 ║ FOCUS      : DATA & ANALYTICS                                ║
 ║ STATUS     : BUILDING                                        ║
 ║                                                              ║
 ║ PRIMARY    : Python • SQL • Power BI                         ║
-║ SECONDARY  :  .NET • VBA • Git                               ║
+║ SECONDARY  : C# • .NET • VBA • Git                           ║
 ║                                                              ║
 ║ MISSION    : Transform data into meaningful decisions        ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -191,17 +191,17 @@ Workflow Optimization
 ║                     PROJECT LAB                              ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  I continuously build projects to transform theory into     ║
+║  I continuously build projects to transform theory into      ║
 ║  practical experience.                                       ║
 ║                                                              ║
-║  DATA ANALYTICS                                               ║
+║  DATA ANALYTICS                                              ║
 ║  ├── Python                                                  ║
 ║  ├── SQL                                                     ║
 ║  ├── Power BI                                                ║
 ║  └── Data Visualization                                      ║
 ║                                                              ║
 ║  SOFTWARE DEVELOPMENT                                        ║
-║  ├── C# / .NET                                               ║
+║  ├── .NET                                                    ║
 ║  ├── VB.NET                                                  ║
 ║  └── Database Systems                                        ║
 ║                                                              ║
@@ -315,7 +315,7 @@ $ become_data_scientist --mode=continuous_learning
 <img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
-<a href="www.linkedin.com/in/guilhermeoliveiraslv">
+<a href="https://www.linkedin.com/in/guilhermeoliveiraslv">
 <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
@@ -339,6 +339,6 @@ $ become_data_scientist --mode=continuous_learning
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:07151A,100:050505&height=130&section=footer" width="100%"/>
 
-**Guilherme Silva · Data & Technology · 2026**
+**Guilherme Oliveira Silva · Data & Technology · 2026**
 
 </div>
