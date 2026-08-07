@@ -322,7 +322,7 @@ $ become_data_scientist --mode=continuous_learning
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│       DATA → INFORMATION → INSIGHT → DECISION              │
+│       DATA → INFORMATION → INSIGHT → DECISION               │
 │                                                             │
 │                    SYSTEM ONLINE                            │
 │                                                             │
