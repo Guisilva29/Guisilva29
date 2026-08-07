@@ -291,16 +291,7 @@ $ become_data_scientist --mode=continuous_learning
 
 ---
 
-# `08 // ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=Guisilva29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="96%"/>
-
-</div>
----
-
-# `09 // CONTRIBUTION.PROTOCOL`
+# `08 // CONTRIBUTION.PROTOCOL`
 
 <div align="center">
 
@@ -310,7 +301,7 @@ $ become_data_scientist --mode=continuous_learning
 
 ---
 
-# `10 // CONNECT.TO.SYSTEM`
+# `9 // CONNECT.TO.SYSTEM`
 
 <div align="center">
 
