@@ -60,7 +60,7 @@ Estou constantemente desenvolvendo projetos para aplicar meus conhecimentos e ex
 
 - Aprofundando **Data Analytics** com Python, SQL e Power BI
 - Desenvolvendo projetos de **análise e visualização de dados**
-- Construindo base para evoluir futuramente em **Data Science & Machine Learning**
+- Construindo base para evoluir futuramente em **Data Engineering**
 
 ---
 
