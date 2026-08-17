@@ -14,8 +14,9 @@
 
 ## About
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul**, com foco em **Data Analytics**.  
-Tenho desenvolvido projetos práticos utilizando Python, SQL e Power BI para transformar dados em análises e insights.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul**, com foco em **Data Analytics**.
+
+Desenvolvo projetos práticos utilizando **Python, SQL e Power BI**, buscando transformar dados em análises, visualizações e insights que apoiem decisões.
 
 Atualmente, busco uma oportunidade de **estágio na área de Dados** para aplicar meus conhecimentos e continuar evoluindo profissionalmente.
 
@@ -27,13 +28,15 @@ Atualmente, busco uma oportunidade de **estágio na área de Dados** para aplica
 
 ### Data
 
-<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
-<img src="https://img.icons8.com/color/48/sql.png" height="40" alt="SQL"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"/>
+<img src="https://skillicons.dev/icons?i=python" height="42" alt="Python"/>
+<img src="https://img.icons8.com/color/48/sql.png" height="42" alt="SQL"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" height="42" alt="Power BI"/>
 
-### Development & Tools
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,cs,dotnet,vscode" height="40" alt="Git GitHub CSharp .NET VSCode"/>
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="42" alt="Git, GitHub and VS Code"/>
 
 </div>
 
@@ -41,12 +44,12 @@ Atualmente, busco uma oportunidade de **estágio na área de Dados** para aplica
 
 ## Projects
 
-Estou constantemente desenvolvendo projetos para colocar meus conhecimentos em prática e explorar diferentes problemas relacionados a dados.
+Estou constantemente desenvolvendo projetos para aplicar meus conhecimentos e explorar diferentes problemas relacionados a dados.
 
 <div align="center">
 
 <a href="https://github.com/Guisilva29?tab=repositories">
-  <img src="https://img.shields.io/badge/Explorar%20meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos"/>
+<img src="https://img.shields.io/badge/Explorar%20meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explorar meus projetos"/>
 </a>
 
 </div>
@@ -56,7 +59,7 @@ Estou constantemente desenvolvendo projetos para colocar meus conhecimentos em p
 ## Currently Learning
 
 - Aprofundando **Data Analytics** com Python, SQL e Power BI
-- Desenvolvendo projetos de análise e visualização de dados
+- Desenvolvendo projetos de **análise e visualização de dados**
 - Construindo base para evoluir futuramente em **Data Science & Machine Learning**
 
 ---
@@ -81,8 +84,9 @@ Estou constantemente desenvolvendo projetos para colocar meus conhecimentos em p
 
 <div align="center">
 
-**LinkedIn:** [guilhermeoliveiraslv](https://www.linkedin.com/in/guilhermeoliveiraslv)  
-**Email:** [guilhermeoliveira2903@gmail.com](mailto:guilhermeoliveira2903@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermeoliveiraslv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermeoliveiraslv)
+
+[![Email](https://img.shields.io/badge/Email-guilhermeoliveira2903%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermeoliveira2903@gmail.com)
 
 <br>
 
