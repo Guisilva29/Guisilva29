@@ -74,7 +74,7 @@ Estou constantemente desenvolvendo projetos para aplicar meus conhecimentos e ex
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guisilva29&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
 
 </div>
 
